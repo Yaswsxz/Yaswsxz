@@ -1,20 +1,16 @@
-<!-- README — Yasmin Carvalho -->
-
 <div align="center">
-<img src="vader-hall.jpg" width="100%" alt="banner"/>
+<img src="vader-window.jpg" width="100%" alt="banner"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=4000&pause=1200&color=FFFFFF¢er=true&vCenter=true&width=600&lines=YASMIN+CARVALHO;SOFTWARE+ENGINEERING+%E2%80%94+3RD+SEMESTER;UNICESUMAR+%E2%80%94+LONDRINA+%2F+PR" alt="title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=YASMIN+CARVALHO;SOFTWARE+ENGINEERING+%E2%80%94+3RD+SEMESTER;UNICESUMAR+%E2%80%94+LONDRINA+%2F+PR" alt="title"/>
 </div>
 
 <br/>
 
 ---
-
-<img align="right" width="270" src="vader-window.jpg" alt="vader"/>
 
 **`> whoami`**
 
@@ -32,8 +28,6 @@ como sistemas funcionam por dentro. Gosto de estrutura,
 lógica e de transformar aprendizado em código funcional.
 
 Seja bem-vindo ao meu GitHub.
-
-<br clear="right"/>
 
 ---
 
