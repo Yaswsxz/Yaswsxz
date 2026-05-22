@@ -56,8 +56,6 @@ Sou estudante de Engenharia de Software, atualmente no 3º semestre, e gosto de 
 
 <div align="center">
 
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555" />
 
 </div>
