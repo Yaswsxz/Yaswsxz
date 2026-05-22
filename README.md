@@ -22,12 +22,7 @@ course   :  engenharia de software — 3º sem
 college  :  unicesumar, londrina / pr
 status   :  [████████░░] compiling...
 ```
-
-Estudo engenharia de software com foco em entender
-como sistemas funcionam por dentro. Gosto de estrutura,
-lógica e de transformar aprendizado em código funcional.
-
-Seja bem-vindo ao meu GitHub.
+Sou estudante de Engenharia de Software, atualmente no 3º semestre, e gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
 
 ---
 
@@ -60,8 +55,6 @@ Seja bem-vindo ao meu GitHub.
 **`> stats`**
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswsxz&layout=compact&hide_border=true&title_color=ffffff&text_color=777777&bg_color=080808" />
 
 <br/>
 
