@@ -75,7 +75,7 @@ Sou estudante de Engenharia de Software, atualmente no 3º semestre, e gosto de 
 ---
 
 <div align="center">
-<img src="vaderalone.jpg" width="55%" alt="footer"/>
+<img src="vaderalone.jpg" width="85%" alt="footer"/>
 <br/><br/>
 <sub><code>// she started coding. the force was strong.</code></sub>
 </div>
