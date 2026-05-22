@@ -32,7 +32,7 @@ Seja bem-vindo ao meu GitHub.
 ---
 
 <div align="center">
-<img src="starwars.gif" width="600" alt="star wars"/>
+<img src="starwars.gif" width="800" alt="star wars"/>
 </div>
 
 <br/>
@@ -57,22 +57,10 @@ Seja bem-vindo ao meu GitHub.
 
 ---
 
-**`> projects`**
-
-> *"Do. Or do not. There is no try."*
-
-| project | description | status |
-|---------|-------------|--------|
-| `coming soon` | missão ainda classificada | `[ building ]` |
-| `coming soon` | explorando novas rotas | `[ planning ]` |
-
----
-
 **`> stats`**
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Yaswsxz&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=777777&bg_color=080808" /> 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswsxz&layout=compact&hide_border=true&title_color=ffffff&text_color=777777&bg_color=080808" />
 
 <br/>
@@ -96,7 +84,7 @@ Seja bem-vindo ao meu GitHub.
 ---
 
 <div align="center">
-<img src="vader-hall.jpg" width="55%" alt="footer"/>
+<img src="vaderalone.jpg" width="55%" alt="footer"/>
 <br/><br/>
 <sub><code>// she started coding. the force was strong.</code></sub>
 </div>
