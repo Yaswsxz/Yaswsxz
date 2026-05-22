@@ -7,14 +7,14 @@
 <br/>
 
 <div align="center">
-<img src="./images/darkvader-hall.jpg" width="100%" style="filter:grayscale(100%)" alt="Star Wars banner"/>
+<img src="vader-window.jpg" width="100%" alt="Star Wars banner"/>
 </div>
 
 <br/>
 
 ---
 
-<img align="right" width="280" src="./images/darkvader-window.jpg" style="filter:grayscale(100%); border-radius:8px" alt="Darth Vader"/>
+<img align="right" width="280" src="darkvader-window.jpg"  alt="Darth Vader"/>
 
 ### `> whoami`
 
@@ -83,7 +83,7 @@ Status   : [████████░░] Compilando o futuro...
 
 <div align="center">
 
-<img src="./images/darkvader-hall.jpg" width="60%" style="filter:grayscale(100%); opacity:0.6" alt="footer"/>
+<img src="vaderalone.jpg" width="60%" alt="footer"/>
 
 <br/>
 <sub>She started coding. The Force was strong.</sub>
