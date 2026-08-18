@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=YASMIN+CARVALHO;SOFTWARE+ENGINEERING+%E2%80%94+3RD+SEMESTER;UNICESUMAR+%E2%80%94+LONDRINA+%2F+PR" alt="title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&duration=4000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=YASMIN+CARVALHO;SOFTWARE+ENGINEERING+%E2%80%94+4RD+SEMESTER;UNICESUMAR+%E2%80%94+LONDRINA+%2F+PR" alt="title"/>
 </div>
 
 <br/>
@@ -18,11 +18,11 @@
 name     :  Yasmin Carvalho
 age      :  20
 role     :  padawan → software engineer
-course   :  engenharia de software — 3º sem
+course   :  engenharia de software — 4º sem
 college  :  unicesumar, londrina / pr
 status   :  [████████░░] compiling...
 ```
-Sou estudante de Engenharia de Software, atualmente no 3º semestre, e gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
+Sou estudante de Engenharia de Software, atualmente no 4º semestre, e gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
 
 ---
 
