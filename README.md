@@ -42,14 +42,6 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 ---
 
-**`> projects`**
-
-| Projeto | Descrição |
-|---|---|
-| 🏛️ **API — Prefeitura de Londrina** | API desenvolvida durante o estágio em TI |
-
----
-
 **`> stack`**
 
 <div align="center">
@@ -76,7 +68,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555)](https://github.com/Yaswsxz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswsxz&hide_border=true&layout=compact&bg_color=080808&title_color=ffffff&text_color=aaaaaa)](https://github.com/Yaswsxz)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yaswsxz&hide_border=true&layout=compact&bg_color=080808&title_color=ffffff&text_color=aaaaaa)](https://github.com/Yaswsxz)
 
 </div>
 
