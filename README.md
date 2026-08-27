@@ -6,7 +6,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 
 **`> whoami`**
@@ -23,7 +23,7 @@ status   :  [████████░░] compiling...
 
 Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interesse em backend e cibersegurança. Gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
 
-<br>
+<br><br>
 
 
 <div align="center">
@@ -32,7 +32,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
-<br>
+<br><br>
 
 
 **`> stack`**
@@ -53,7 +53,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
-<br>
+<br><br>
 
 
 **`> stats`**
@@ -66,7 +66,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
-<br>
+<br><br>
 
 
 **`> contact`**
@@ -77,7 +77,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
-<br>
+<br><br>
 
 
 <div align="center">
