@@ -49,7 +49,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 **Ferramentas**
 
-[![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-111111?style=flat-square&logo=visual-studio-code&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-111111?style=flat-square&logo=windows&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-111111?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-111111?style=flat-square)](#)
 
 </div>
 
@@ -81,6 +81,14 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 
 <div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaswsxz.Yaswsxz&color=333333&style=flat-square)
+
+[![footer](vaderalone.jpg)](vaderalone.jpg)
+
+`// she started coding. the force was strong.`
+
+</div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaswsxz.Yaswsxz&color=333333&style=flat-square)
 
