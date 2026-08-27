@@ -82,7 +82,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaswsxz.Yaswsxz&color=333333&style=flat-square)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&right_color=%23450202)
 
 [![footer](vaderalone.jpg)](vaderalone.jpg)
 
