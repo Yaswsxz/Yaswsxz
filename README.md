@@ -6,7 +6,8 @@
 
 </div>
 
----
+<br>
+
 
 **`> whoami`**
 
@@ -22,7 +23,8 @@ status   :  [████████░░] compiling...
 
 Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interesse em backend e cibersegurança. Gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
 
----
+<br>
+
 
 <div align="center">
 
@@ -30,17 +32,8 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
----
+<br>
 
-**`> current focus`**
-
-```
-- Estagiária de TI na Prefeitura de Londrina (SMPOT-DTI-GRDSI)
-- Aprofundando backend e cibersegurança
-- Aprendendo: Oracle APEX, MySQL, SQLite, Active Directory
-```
-
----
 
 **`> stack`**
 
@@ -60,7 +53,8 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
----
+<br>
+
 
 **`> stats`**
 
@@ -72,7 +66,8 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
----
+<br>
+
 
 **`> contact`**
 
@@ -82,7 +77,8 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 </div>
 
----
+<br>
+
 
 <div align="center">
 
