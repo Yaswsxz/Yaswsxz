@@ -89,11 +89,3 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 `// she started coding. the force was strong.`
 
 </div>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaswsxz.Yaswsxz&color=333333&style=flat-square)
-
-[![footer](vaderalone.jpg)](vaderalone.jpg)
-
-`// she started coding. the force was strong.`
-
-</div>
