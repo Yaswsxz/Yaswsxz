@@ -21,6 +21,8 @@ focus    :  backend & cibersegurança
 status   :  [████████░░] compiling...
 ```
 
+**`> about`**
+
 Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interesse em backend e cibersegurança. Gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
 
 <br><br>
@@ -41,15 +43,15 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 **Linguagens**
 
-[![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)](#) [![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-7a7a7a?style=flat-square&logo=openjdk&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-6c6c6c?style=flat-square&logo=python&logoColor=white)](#) [![C](https://img.shields.io/badge/C-5e5e5e?style=flat-square&logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C%2B%2B-505050?style=flat-square&logo=cplusplus&logoColor=white)](#) [![HTML5](https://img.shields.io/badge/HTML5-424242?style=flat-square&logo=html5&logoColor=white)](#) [![CSS3](https://img.shields.io/badge/CSS3-343434?style=flat-square&logo=css3&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=white)](#) [![React](https://img.shields.io/badge/React-181818?style=flat-square&logo=react&logoColor=white)](#) [![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=white)](#)
 
 **Banco de dados**
 
-[![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)](#) [![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-111111?style=flat-square&logo=oracle&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-1c1f26?style=flat-square&logo=mysql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-262b35?style=flat-square&logo=sqlite&logoColor=white)](#) [![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-303646?style=flat-square&logo=oracle&logoColor=white)](#)
 
 **Ferramentas**
 
-[![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-111111?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-111111?style=flat-square)](#)
+[![Git](https://img.shields.io/badge/Git-7a1010?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-611010?style=flat-square&logo=github&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-4d0a0a?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-390707?style=flat-square&logo=figma&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-260404?style=flat-square)](#)
 
 </div>
 
