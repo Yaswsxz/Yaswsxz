@@ -28,7 +28,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 <div align="center">
 
-[![star wars](starwars.gif)](starwars.gif)
+<a href="starwars.gif"><img src="starwars.gif" width="700"></a>
 
 </div>
 
