@@ -22,7 +22,7 @@ status   :  [████████░░] compiling...
 
 **`> about`**
 
-Estudante de Engenharia de Software com interesse em backend e cibersegurança. Gosto de aprender como os sistemas funcionam na prática e estou sempre evoluindo por meio de estudos e projetos.
+Estudante de Engenharia de Software na UniCesumar, com interesse em backend e cibersegurança. Atualmente sou estagiária de TI na Prefeitura de Londrina, onde já desenvolvi uma API e venho aprendendo Oracle APEX, MySQL, SQLite e Active Directory na prática. Gosto de entender como os sistemas funcionam por baixo dos panos e estou sempre buscando novos desafios pra colocar a mão na massa.
 
 <br><br>
 
