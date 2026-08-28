@@ -61,7 +61,7 @@ Estudante de Engenharia de Software com interesse em backend e cibersegurança. 
 
 <div align="center">
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555)](https://github.com/Yaswsxz)
+[![](https://streak-stats.demolab.com/?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555)](https://github.com/Yaswsxz)
 
 </div>
 
@@ -72,9 +72,9 @@ Estudante de Engenharia de Software com interesse em backend e cibersegurança. 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yasmin-c-349b71285/"><img src="https://img.shields.io/badge/linkedin-7a1010?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
-<a href="https://github.com/Yaswsxz"><img src="https://img.shields.io/badge/github-4d0a0a?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
-<a href="mailto:yasmincarvalho06@icloud.com"><img src="https://img.shields.io/badge/email-260404?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
+<a href="https://linkedin.com/in/yasmin-c-349b71285/"><img src="https://img.shields.io/badge/linkedin-6e6e6e?style=flat-square&logo=linkedin&logoColor=white" height="28"></a>
+<a href="https://github.com/Yaswsxz"><img src="https://img.shields.io/badge/github-424242?style=flat-square&logo=github&logoColor=white" height="28"></a>
+<a href="mailto:yasmincarvalho06@icloud.com"><img src="https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" height="28"></a>
 
 </div>
 
