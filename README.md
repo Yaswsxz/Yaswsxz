@@ -17,13 +17,12 @@ age      :  20
 role     :  padawan → software engineer
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
-focus    :  backend & cibersegurança
 status   :  [████████░░] compiling...
 ```
 
 **`> about`**
 
-Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interesse em backend e cibersegurança. Gosto de aprender cada vez mais sobre tecnologia, programação e como os sistemas funcionam na prática. Estou sempre buscando evoluir minhas habilidades por meio de estudos, projetos e novas experiências, transformando aprendizado em código e em desenvolvimento constante.
+Estudante de Engenharia de Software com interesse em backend e cibersegurança. Gosto de aprender como os sistemas funcionam na prática e estou sempre evoluindo por meio de estudos e projetos.
 
 <br><br>
 
@@ -64,8 +63,6 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555)](https://github.com/Yaswsxz)
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yaswsxz&hide_border=true&layout=compact&bg_color=080808&title_color=ffffff&text_color=aaaaaa)](https://github.com/Yaswsxz)
-
 </div>
 
 <br><br>
@@ -75,7 +72,9 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/linkedin-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasmin-c-349b71285/) [![github](https://img.shields.io/badge/github-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/Yaswsxz) [![email](https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:yasmincarvalho06@icloud.com)
+<a href="https://linkedin.com/in/yasmin-c-349b71285/"><img src="https://img.shields.io/badge/linkedin-7a1010?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
+<a href="https://github.com/Yaswsxz"><img src="https://img.shields.io/badge/github-4d0a0a?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
+<a href="mailto:yasmincarvalho06@icloud.com"><img src="https://img.shields.io/badge/email-260404?style=for-the-badge&logo=gmail&logoColor=white" height="40"></a>
 
 </div>
 
@@ -84,7 +83,7 @@ Sou estudante de Engenharia de Software, atualmente no 4º semestre, com interes
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaswsxz.Yaswsxz&color=%233e3c3c&right_color=%235f0202&style=flat-square)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yaswsxz.Yaswsxz&color=6e6e6e&right_color=1a1a1a&style=flat-square)
 
 [![footer](vaderalone.jpg)](vaderalone.jpg)
 
