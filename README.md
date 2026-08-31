@@ -22,7 +22,7 @@ status   :  [████████░░] compiling...
 
 **`> about`**
 
-Estudante de Engenharia de Software na UniCesumar, com interesse em backend e cibersegurança. Atualmente sou estagiária de TI na Prefeitura de Londrina, onde já desenvolvi uma API e venho aprendendo Oracle APEX, MySQL, SQLite e Active Directory na prática. Gosto de entender como os sistemas funcionam por baixo dos panos e estou sempre buscando novos desafios pra colocar a mão na massa.
+Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegurança. Atuo como estagiária de TI na Prefeitura de Londrina, onde desenvolvi uma API em produção e trabalho com Oracle APEX, MySQL, SQLite e Active Directory no dia a dia. Busco constantemente aprofundar conhecimento técnico e aplicar boas práticas em projetos reais.
 
 <br><br>
 
