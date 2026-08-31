@@ -17,7 +17,7 @@ age      :  20
 role     :  padawan → software engineer
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
-current_state :  not a sith, just tired
+log :  not a sith, just tired
 ```
 
 **`> about`**
