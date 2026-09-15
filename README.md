@@ -61,7 +61,7 @@ Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegu
 
 <div align="center">
 
-[![](https://github-readme-streak-stats-eight.vercel.app?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555)](https://github.com/Yaswsxz)
+[![](https://streak-stats.demolab.com/?user=Yaswsxz&hide_border=true&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&background=080808&stroke=333333&sideLabels=777777&dates=555555)](https://github.com/Yaswsxz)
 
 </div>
 
