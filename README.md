@@ -17,6 +17,7 @@ age      :  20
 role     :  padawan → software engineer
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
+learning :  waf, coraza, owasp crs, podman, linux
 energy   :  not a sith, just tired
 ```
 
@@ -50,7 +51,7 @@ Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegu
 
 **Ferramentas**
 
-[![Git](https://img.shields.io/badge/Git-7a1010?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-611010?style=flat-square&logo=github&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-4d0a0a?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-390707?style=flat-square&logo=figma&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-260404?style=flat-square)](#)
+[![Git](https://img.shields.io/badge/Git-7a1010?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-611010?style=flat-square&logo=github&logoColor=white)](#) [![GitLab](https://img.shields.io/badge/GitLab-570e0e?style=flat-square&logo=gitlab&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-4d0a0a?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-390707?style=flat-square&logo=figma&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-260404?style=flat-square)](#)
 
 **Estudando agora**
 
