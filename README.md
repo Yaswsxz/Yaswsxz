@@ -17,25 +17,12 @@ age      :  20
 role     :  padawan → cybersecurity
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
-learning :  waf, coraza, owasp crs, podman, linux
 energy   :  not a sith, just tired
 ```
 
 **`> about`**
 
 Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegurança. Atuo como estagiária de TI na Prefeitura de Londrina, onde desenvolvi uma API em produção e trabalho com Oracle APEX, MySQL, SQLite e Active Directory no dia a dia. Meu objetivo é seguir carreira em cibersegurança: hoje estudo segurança de aplicações web, Linux e containers, e no estágio venho explorando WAFs open source como o Coraza com o OWASP CRS. Busco constantemente aprofundar conhecimento técnico e aplicar boas práticas de segurança em projetos reais.
-
-<br><br>
-
-
-**`> status`**
-
-```
-working on   :  api de gerenciamento de usuários do active directory (dti)
-studying     :  segurança de aplicações web, linux, containers, waf
-goal         :  carreira em cibersegurança
-looking for  :  oportunidades de estágio em segurança
-```
 
 <br><br>
 
