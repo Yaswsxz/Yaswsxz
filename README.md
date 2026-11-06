@@ -17,12 +17,13 @@ age      :  20
 role     :  padawan → software engineer
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
+learning :  waf, coraza, owasp crs, podman
 energy   :  not a sith, just tired
 ```
 
 **`> about`**
 
-Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegurança. Atuo como estagiária de TI na Prefeitura de Londrina, onde desenvolvi uma API em produção e trabalho com Oracle APEX, MySQL, SQLite e Active Directory no dia a dia. Busco constantemente aprofundar conhecimento técnico e aplicar boas práticas em projetos reais.
+Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegurança. Atuo como estagiária de TI na Prefeitura de Londrina, onde desenvolvi uma API em produção e trabalho com Oracle APEX, MySQL, SQLite e Active Directory no dia a dia. Atualmente estudo segurança de aplicações web, com foco na implantação de WAF open source (Coraza + OWASP CRS) em containers com Podman. Busco constantemente aprofundar conhecimento técnico e aplicar boas práticas em projetos reais.
 
 <br><br>
 
@@ -51,6 +52,10 @@ Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegu
 **Ferramentas**
 
 [![Git](https://img.shields.io/badge/Git-7a1010?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-611010?style=flat-square&logo=github&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-4d0a0a?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-390707?style=flat-square&logo=figma&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-260404?style=flat-square)](#)
+
+**Estudando agora**
+
+[![Coraza WAF](https://img.shields.io/badge/Coraza%20WAF-1a2a3a?style=flat-square&logo=go&logoColor=white)](#) [![OWASP CRS](https://img.shields.io/badge/OWASP%20CRS-14212e?style=flat-square&logo=owasp&logoColor=white)](#) [![Podman](https://img.shields.io/badge/Podman-0e1822?style=flat-square&logo=podman&logoColor=white)](#)
 
 </div>
 
