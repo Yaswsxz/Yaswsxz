@@ -17,6 +17,7 @@ age      :  20
 role     :  padawan → cybersecurity
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
+learning :  waf, coraza, owasp crs, podman, linux
 energy   :  not a sith, just tired
 ```
 
@@ -75,11 +76,47 @@ looking for  :  oportunidades de estágio em segurança
 
 **`> ls ~/projects`**
 
-<pre>
-<a href="https://github.com/Yaswsxz/api-ad-prefeitura">api-ad-prefeitura/</a>   api rest integrada ao active directory · python, fastapi, ldap3
-<a href="https://github.com/Yaswsxz/atv-Clinica">atv-clinica/</a>         sistema de agendamento de consultas · java, mysql, jdbc
-<a href="https://github.com/Yaswsxz/AtvPOOMySql">atv-poo-mysql/</a>       biblioteca e estoque com tratamento de exceções · java, mysql, jdbc
-</pre>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br>
+<b>api-ad-prefeitura</b>
+<br><br>
+<sub>API REST integrada ao Active Directory, com autenticação JWT e logs de auditoria</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-6c6c6c?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-424242?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/LDAP3-262626?style=flat-square">
+<br><br>
+<a href="https://github.com/Yaswsxz/api-ad-prefeitura"><img src="https://img.shields.io/badge/ver_repositório-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<b>atv-clinica</b>
+<br><br>
+<sub>Sistema de agendamento de consultas com persistência em banco de dados</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Java-6c6c6c?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-424242?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JDBC-262626?style=flat-square">
+<br><br>
+<a href="https://github.com/Yaswsxz/atv-Clinica"><img src="https://img.shields.io/badge/ver_repositório-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+<br><br>
+</td>
+<td align="center" width="33%">
+<br>
+<b>atv-poo-mysql</b>
+<br><br>
+<sub>Sistemas de biblioteca e estoque com tratamento de exceções</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Java-6c6c6c?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-424242?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JDBC-262626?style=flat-square">
+<br><br>
+<a href="https://github.com/Yaswsxz/AtvPOOMySql"><img src="https://img.shields.io/badge/ver_repositório-333333?style=for-the-badge&logo=github&logoColor=white"></a>
+<br><br>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br><br>
 
