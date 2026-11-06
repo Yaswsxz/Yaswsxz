@@ -17,7 +17,7 @@ age      :  20
 role     :  padawan → software engineer
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
-learning :  waf, coraza, owasp crs, podman
+learning :  waf, coraza, owasp crs, podman, linux
 energy   :  not a sith, just tired
 ```
 
@@ -55,7 +55,7 @@ Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegu
 
 **Estudando agora**
 
-[![Coraza WAF](https://img.shields.io/badge/Coraza%20WAF-1a2a3a?style=flat-square&logo=go&logoColor=white)](#) [![OWASP CRS](https://img.shields.io/badge/OWASP%20CRS-14212e?style=flat-square&logo=owasp&logoColor=white)](#) [![Podman](https://img.shields.io/badge/Podman-0e1822?style=flat-square&logo=podman&logoColor=white)](#)
+[![Coraza WAF](https://img.shields.io/badge/Coraza%20WAF-1a2a3a?style=flat-square&logo=go&logoColor=white)](#) [![OWASP CRS](https://img.shields.io/badge/OWASP%20CRS-14212e?style=flat-square&logo=owasp&logoColor=white)](#) [![Podman](https://img.shields.io/badge/Podman-0e1822?style=flat-square&logo=podman&logoColor=white)](#) [![Linux](https://img.shields.io/badge/Linux-080f16?style=flat-square&logo=linux&logoColor=white)](#)
 
 </div>
 
