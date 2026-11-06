@@ -76,9 +76,9 @@ Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegu
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yasmin-c-349b71285/"><img src="https://img.shields.io/badge/linkedin-6e6e6e?style=flat-square&logo=linkedin&logoColor=white" height="28"></a>
-<a href="https://github.com/Yaswsxz"><img src="https://img.shields.io/badge/github-424242?style=flat-square&logo=github&logoColor=white" height="28"></a>
-<a href="mailto:yasmincarvalho06@icloud.com"><img src="https://img.shields.io/badge/email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" height="28"></a>
+<a href="https://linkedin.com/in/yasmin-c-349b71285/"><img src="https://img.shields.io/badge/linkedin-7a1010?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjcxIDEuNjM3LTIuMjA3IDMuMzctMi4yMDcgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white"></a>
+<a href="https://github.com/Yaswsxz"><img src="https://img.shields.io/badge/github-611010?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="mailto:yasmincarvalho06@icloud.com"><img src="https://img.shields.io/badge/email-4d0a0a?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
