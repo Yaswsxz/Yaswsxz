@@ -17,7 +17,6 @@ age      :  20
 role     :  padawan → software engineer
 course   :  engenharia de software — 4º semestre
 college  :  unicesumar, londrina / pr
-learning :  waf, coraza, owasp crs, podman, linux
 energy   :  not a sith, just tired
 ```
 
