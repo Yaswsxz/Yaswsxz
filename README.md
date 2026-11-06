@@ -46,11 +46,11 @@ Estudante de Engenharia de Software (UniCesumar) com foco em backend e cibersegu
 
 **Banco de dados**
 
-[![MySQL](https://img.shields.io/badge/MySQL-1c1f26?style=flat-square&logo=mysql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-262b35?style=flat-square&logo=sqlite&logoColor=white)](#) [![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-303646?style=flat-square&logo=oracle&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-1c1f26?style=flat-square&logo=mysql&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-262b35?style=flat-square&logo=sqlite&logoColor=white)](#) [![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-303646?style=flat-square)](#)
 
 **Ferramentas**
 
-[![Git](https://img.shields.io/badge/Git-7a1010?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-611010?style=flat-square&logo=github&logoColor=white)](#) [![GitLab](https://img.shields.io/badge/GitLab-570e0e?style=flat-square&logo=gitlab&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-4d0a0a?style=flat-square&logo=visualstudiocode&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-390707?style=flat-square&logo=figma&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-260404?style=flat-square)](#)
+[![Git](https://img.shields.io/badge/Git-7a1010?style=flat-square&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-6a1010?style=flat-square&logo=github&logoColor=white)](#) [![GitLab](https://img.shields.io/badge/GitLab-5c0e0e?style=flat-square&logo=gitlab&logoColor=white)](#) [![VSCode](https://img.shields.io/badge/VSCode-4d0b0b?style=flat-square)](#) [![Apache](https://img.shields.io/badge/Apache-3f0909?style=flat-square&logo=apache&logoColor=white)](#) [![Figma](https://img.shields.io/badge/Figma-300606?style=flat-square&logo=figma&logoColor=white)](#) [![Active Directory](https://img.shields.io/badge/Active%20Directory-220404?style=flat-square)](#)
 
 **Estudando agora**
 
